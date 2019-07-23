@@ -27,5 +27,3 @@ Python command:
 
 Refer [Real Time Segmentation](https://github.com/techiepanda/Image-segmentation-using-SLIC-superpixels-and-graph-cuts/blob/master/Real%20Time%20Segmentation.mov) to see the working example.
 
-# Team
-[Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/geekyspartan)
